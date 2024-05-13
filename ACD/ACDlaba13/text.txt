@@ -1,0 +1,6 @@
+1. Благодаря использованию хеш-таблицы на основе файла 'text.txt', можно быстро и легко находить нужные значения по ключу, что значительно экономит время и упрощает процесс поиска.
+2. Формат CSV, в котором записывается хеш-таблица с данными из файла 'text.txt', является удобным и популярным форматом для обмена данными между различными приложениями и программами.
+
+1. This code reads a text file, creates a hash table using a hash function, and then writes the hash table to a CSV file.
+2. By using a simple hash function based on word length, this code efficiently organizes words from a text file into a hash table for easy access and retrieval.
+3. The resulting CSV file contains the hash table with keys representing word lengths and values consisting of lists of words with corresponding lengths.
